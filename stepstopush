@@ -8,3 +8,13 @@ git add
 git commit -> to local
 
 git add , commit , push > create pull req on github
+
+
+Here you go ,
+,make changes in a new branch
+save changes on FS
+git status to compare
+git add to add / stage the changes
+git commit to commit the changes to the local branch
+git push will push the changes to github
+then we can create a pull req and merge to the main branch
