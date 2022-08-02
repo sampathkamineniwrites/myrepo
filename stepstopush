@@ -1,1 +1,8 @@
 this is a new file that includes the steps
+
+
+1. clone myrepo
+2. create a branch
+make changes in new branch
+git add
+git commit -> to local
